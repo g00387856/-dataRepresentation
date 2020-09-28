@@ -1,0 +1,28 @@
+XML Script for week 1 assignment
+
+
+Student : Michelle Moran G00387856
+
+<?xml version ="1.0" encoding="UTF-8"?>
+<Library>
+    <Book catergory = "Technical ">
+        <Title>Planning Extreme Programming</Title>
+        <ISBN>0201710919</ISBN>
+        <Author>KentBeck</Author>
+    </Book>
+    <Book>
+        <Title>Learning XML</Title>
+        <ISBN>0596004206</ISBN>
+        <Author>Erik T.Ray</Author>
+    </Book>
+    <Book catergory = "Cookery ">
+        <Title>Simple</Title>
+        <ISBN>1785031163</ISBN>
+        <Author>Yotam Ottolenghi</Author>
+    </Book>
+    <Book>
+        <Title>Mezze</Title>
+        <ISBN>1849759359</ISBN>
+        <Author>Ghillie Bason</Author>
+    </Book>
+    </Library>
